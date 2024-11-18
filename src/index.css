@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+/* 
+  Email Address
+Please enter a valid email address
+This field is required
+
+Query Type
+General Enquiry
+Support Request
+Please select a query type
+
+Message
+This field is required
+
+I consent to being contacted by the team
+To submit this form, please consent to being contacted
+
+Submit
+*/
